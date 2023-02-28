@@ -1,6 +1,2 @@
 # moviesinc
-I recommend using expo on a phone to test this application, even though it works on the web
-Follow these instructions to run the project
-Make sure you have Node installed in your terminal; if not, you can follow the instructions on the node website https://nodejs.org/en/
-after installing Node, just run the command "npm start," and the app will be exposed to port 19006 by default
-In order to use the app, you can either scan the QR code generated on your terminal screen after running "npm start" or press "w" in the terminal so it can start the web version of the app.
+I recommend using expo on a phone to test this application, even though it works on the webFollow these instructions to run the project:Make sure you have Node installed in your terminal; if not, you can follow the instructions on the node website https://nodejs.org/en/after installing Node, just run the command "npm install," so dependencies are installed.Then, run "npm start," and the app will be exposed to port 19006 by default.To use the app, you can either scan the QR code generated on your terminal screen after running "npm start" or press "w" in the terminal so it can start the web version of the app.In order to interact with the app, you must have a registered account, so once you click on "Iniciar session" you are going to be redirected to The Movie DB page, where you are going to be given a session IdOnce registered you can go back to the app and enjoy.
